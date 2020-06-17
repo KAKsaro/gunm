@@ -1,2 +1,2 @@
-# gunm
+# kurdm
 By kak.saro
